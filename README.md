@@ -14,21 +14,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico para explorar
 - **JavaScript:** Implementação de interatividade e funcionalidades dinâmicas.
 - **Bootstrap:** Framework CSS para design moderno e componentes reutilizáveis.
 
-## Como Contribuir
 
-1. Faça um fork deste repositório.
-2. Clone o repositório forkado: `git clone https://github.com/seu-nome-de-usuario/top-gun-armory.git`
-3. Crie uma branch para a sua contribuição: `git checkout -b minha-contribuicao`
-4. Faça suas alterações e faça commit: `git commit -m "Adicionar funcionalidade incrível"`
-5. Faça o push para a branch: `git push origin minha-contribuicao`
-6. Abra um pull request.
-
-## Executando Localmente
-
-Você pode visualizar o site localmente abrindo o arquivo `index.html` no seu navegador.
-
-```bash
-firefox index.html
 
 
 ##Aviso Legal
