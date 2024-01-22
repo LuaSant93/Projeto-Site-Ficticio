@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico para explorar
 
 
 
-##Aviso Legal
+#Aviso Legal
 Este projeto é totalmente fictício e não representa uma loja real. Toda informação sobre armas de fogo é inventada e não deve ser interpretada como real.
 
 Divirta-se explorando o Top-Gun Armory! 🛡🔫
